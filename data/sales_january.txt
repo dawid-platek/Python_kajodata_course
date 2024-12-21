@@ -1,0 +1,5 @@
+date,product,quantity
+2024-01-01,Apple,50
+2024-01-01,Banana,75
+2024-01-02,Apple,44
+2024-01-03,Banana,75
